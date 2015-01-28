@@ -1,0 +1,3 @@
+111|hong|1200|normal
+222|jang|100|minus
+333|kang|300|normal
